@@ -2,7 +2,6 @@
 
 These notes describe the code and data handling currently in this folder.
 
-- The model is a fully-connected ANN/MLP, not a convolutional neural network.
 - The trainer uses 35×35 grayscale images, two hidden layers of 100 units,
   L2 regularization λ = 1.6, and a 50-iteration maximum.
 - Random initialization is not seeded, so results can differ between runs.
