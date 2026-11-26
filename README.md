@@ -26,6 +26,8 @@ The local data directories are excluded by `.gitignore`.
 
 The X-ray project uses Kaggle's
 [*Chest X-Ray Pneumonia — Balanced Dataset*](https://www.kaggle.com/datasets/yusufmurtaza01/chest-xray-pneumonia-balanced-dataset).
+The Simpsons project uses Kaggle's
+[*The Simpsons (Bart and Homer) Data*](https://www.kaggle.com/datasets/williamu32/dataset-bart-or-homer).
 See the project citation files for full dataset attribution and usage notes.
 
 The `analysis/` folders contain historical experiment workbooks. Treat their
