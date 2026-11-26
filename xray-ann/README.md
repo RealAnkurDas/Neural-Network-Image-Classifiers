@@ -1,4 +1,4 @@
-# Normal vs. Pneumonia: a handwritten ANN
+# Normal vs. Pneumonia: an ANN built from first principles
 
 This project is a small educational image-classification experiment with a
 fully-connected ANN/MLP written using NumPy—not a CNN or a COVID classifier.

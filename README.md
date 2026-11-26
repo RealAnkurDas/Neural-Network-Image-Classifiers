@@ -1,7 +1,12 @@
 # Neural Network Image Classifiers
 
-Two small image-classification projects built to explore neural-network
-fundamentals with handwritten NumPy implementations:
+Two small image-classification projects I built to explore neural-network
+fundamentals, implementing the models myself in NumPy from first principles.
+
+I wrote the code in July–August 2022, using only my notes from Andrew Ng's
+six-month Machine Learning course from Stanford on Coursera. I typed the
+implementations myself without AI assistance, external tutorials, or copied
+code.
 
 | Project | Task | Trainer |
 | --- | --- | --- |
@@ -17,6 +22,10 @@ The image datasets are not included in this repository. Download them
 separately, follow the instructions in the project READMEs, and review the
 dataset citation and rights notes before reusing or redistributing any images.
 The local data directories are excluded by `.gitignore`.
+
+The X-ray project uses Kaggle's
+[*Chest X-Ray Pneumonia — Balanced Dataset*](https://www.kaggle.com/datasets/yusufmurtaza01/chest-xray-pneumonia-balanced-dataset).
+See the project citation files for full dataset attribution and usage notes.
 
 The `analysis/` folders contain historical experiment workbooks. Treat their
 reported results as exploratory notes, not as independently reproduced

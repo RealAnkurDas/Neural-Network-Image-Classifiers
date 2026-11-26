@@ -1,10 +1,10 @@
-# Bart vs. Homer: a handwritten ANN
+# Bart vs. Homer: an ANN built from first principles
 
-After finishing an Andrew Ng machine-learning course, I had some time before
-starting my BTech in computer science. I wanted to see if I could take the
-ideas I had just studied and build a neural network myself, rather than only
-use a ready-made model. Bart and Homer made a fun first image-classification
-problem.
+In July–August 2022, after completing Andrew Ng's six-month Machine Learning
+course from Stanford on Coursera, I had time before starting my BTech in
+computer science. I built this model from first principles using only my
+course notes—without AI assistance, external tutorials, or copied code. Bart
+and Homer made a fun first image-classification problem.
 
 This project contains a fully-connected neural network (ANN/MLP) for
 classifying Bart and Homer. Its cost function and backpropagation are

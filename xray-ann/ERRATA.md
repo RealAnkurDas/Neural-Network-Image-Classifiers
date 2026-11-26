@@ -5,7 +5,7 @@ These notes describe the code and data handling currently in this folder.
 - The classifier is a fully-connected ANN/MLP, not a convolutional network.
 - Its classes are `NORMAL` and `PNEUMONIA`; it does not classify COVID-19.
 - The default input is 10×10 grayscale. This is intentionally small for the
-  handwritten experiment and discards substantial image detail.
+  from-first-principles experiment and discards substantial image detail.
 - Supplied split folders contain related images across splits. The current
   loader therefore ignores those assignments and makes reproducible group-wise
   splits using normal-image augmentation suffixes and pneumonia `person…`
