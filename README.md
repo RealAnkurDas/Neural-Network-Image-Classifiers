@@ -3,10 +3,11 @@
 Two small image-classification projects I built to explore neural-network
 fundamentals, implementing the models myself in NumPy from first principles.
 
-I wrote the code in July–August 2022, using only my notes from Andrew Ng's
-six-month Machine Learning course from Stanford on Coursera. I typed the
-implementations myself without LLM assistance, external tutorials, or copied
-code.
+I developed these in July–August 2022 while studying Andrew Ng's six-month
+Machine Learning course from Stanford on Coursera. I used my course notes,
+its Octave coding exercises, and official library documentation as references,
+then typed and implemented the models myself in NumPy from first principles,
+without LLM assistance.
 
 | Project | Task | Trainer |
 | --- | --- | --- |
