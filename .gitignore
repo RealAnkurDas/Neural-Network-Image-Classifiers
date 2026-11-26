@@ -1,0 +1,27 @@
+# Local environments and Python caches
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+
+# Local datasets and generated training outputs
+xray-ann/data/*
+!xray-ann/data/README.md
+simpsons-ann/data/*
+!simpsons-ann/data/README.md
+**/artifacts/
+**/checkpoints/
+**/logs/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

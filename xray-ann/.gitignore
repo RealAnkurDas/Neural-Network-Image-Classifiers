@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.py[cod]
+
+# Keep dataset instructions, but never commit the X-ray images.
+data/*
+!data/README.md
+
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
