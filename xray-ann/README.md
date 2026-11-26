@@ -1,7 +1,7 @@
 # Normal vs. Pneumonia: an ANN built from first principles
 
 This project is a small educational image-classification experiment with a
-fully-connected ANN/MLP written using NumPy—not a CNN or a COVID classifier.
+fully-connected ANN/MLP written using NumPy.
 
 The network's cost function, forward propagation, and backpropagation are
 implemented in this project. SciPy supplies the conjugate-gradient optimizer,

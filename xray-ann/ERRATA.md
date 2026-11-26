@@ -2,8 +2,8 @@
 
 These notes describe the code and data handling currently in this folder.
 
-- The classifier is a fully-connected ANN/MLP, not a convolutional network.
-- Its classes are `NORMAL` and `PNEUMONIA`; it does not classify COVID-19.
+- The classifier is a fully-connected ANN/MLP with two hidden layers.
+- Its classes are `NORMAL` and `PNEUMONIA`.
 - The default input is 10×10 grayscale. This is intentionally small for the
   from-first-principles experiment and discards substantial image detail.
 - Supplied split folders contain related images across splits. The current
