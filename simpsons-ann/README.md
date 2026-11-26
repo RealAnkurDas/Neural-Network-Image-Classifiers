@@ -3,7 +3,7 @@
 In July–August 2022, after completing Andrew Ng's six-month Machine Learning
 course from Stanford on Coursera, I had time before starting my BTech in
 computer science. I built this model from first principles using only my
-course notes—without AI assistance, external tutorials, or copied code. Bart
+course notes—without LLM assistance, external tutorials, or copied code. Bart
 and Homer made a fun first image-classification problem.
 
 This project contains a fully-connected neural network (ANN/MLP) for

@@ -5,7 +5,7 @@ fundamentals, implementing the models myself in NumPy from first principles.
 
 I wrote the code in July–August 2022, using only my notes from Andrew Ng's
 six-month Machine Learning course from Stanford on Coursera. I typed the
-implementations myself without AI assistance, external tutorials, or copied
+implementations myself without LLM assistance, external tutorials, or copied
 code.
 
 | Project | Task | Trainer |
